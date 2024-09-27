@@ -19,7 +19,7 @@
   fig = plt.figure(figsize = (16, 12))
   ```
 
-- Please use the matplotlib built in font: `serif`,
+- Please use the matplotlib built-in font: `serif`,
   - `siez = 20` for title.
   - `size = 24` for $x$ and $y$ label.
 
